@@ -1,4 +1,6 @@
-# url https://www.zeirishikensaku.jp/sch/zs_sch5.asp
+# After selecting a prefecture from the URL https://www.zeirishikensaku.jp/sch/zs_sch5.asp, 
+# a new URL will be generated. In this new URL, select 'Agriculture' from the second div and 'Income' from the third div.
+# note = while SuBmiting it should e in japanese
 import requests
 import lxml.html
 from datetime import datetime
